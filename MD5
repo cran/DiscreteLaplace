@@ -1,0 +1,16 @@
+73a716e731d6369b94ddb84a2f9068a2 *DESCRIPTION
+a2b52f0651e8d9e88c134274fceffb9e *NAMESPACE
+ffd534fadcb1ecca68cad1fac6cfdd47 *R/Edlaplace.R
+15e202d36f95b628cf7d590687fb0539 *R/ddlaplace.R
+6d1ce2f6f768b0c1340c7e2d483bd914 *R/estdlaplace.R
+a451c313fc86fb92dfca48e6b0cedc89 *R/pdlaplace.R
+3a9accaa2bb5cd951e8a0dfa6f7c9371 *R/qdlaplace.R
+489b70bbf24006a634a96e85be6a312c *R/rdlaplace.R
+776c0d90607abbb209bf9166af588aac *doc/DiscreteLaplace-manual.pdf
+83a8fac73ea582a229e28e8e1a4d787b *man/DiscreteLaplace-package.Rd
+ba6fe83bf17716284a71d853444af2f6 *man/Edlaplace.Rd
+a0d1e86271fbeeb0ce9f0aeb38ecc0ed *man/ddlaplace.Rd
+d65165581ea4f4bc9a454ffecc125090 *man/estdlaplace.Rd
+2db6b25447e939c886f983d7c6a8072d *man/pdlaplace.Rd
+423d34863adabc1fb3b998e2fcebc3c9 *man/qdlaplace.Rd
+8dc8c45ef58cc929a6ed4b74436e5e64 *man/rdlaplace.Rd
