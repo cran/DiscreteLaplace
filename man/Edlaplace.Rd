@@ -4,17 +4,17 @@
 Moments of the discrete Laplace distribution
 }
 \description{
-The function provides the expected value and the variance of the discrete Laplace distribution, and the expectation of its absolute value
+The function provides the expected value and the variance of the SDL, and the expectation of its absolute value.
 }
 \usage{
 Edlaplace(p, q)
 }
 \arguments{
   \item{p}{
-the first parameter of the discrete Laplace distribution
+the first parameter, in \eqn{(0,1)}, of the DSL
 }
   \item{q}{
-the second parameter of the discrete Laplace distribution
+the second parameter, in \eqn{(0,1)}, of the DSL
 }
 }
 \details{
@@ -31,7 +31,7 @@ A list of three items:
   \item{V}{variance}
 }
 \references{
-Tomasz J. Kozubowski, Seidu Inusah (2006) A skew Laplace distribution on integers, \emph{AISM}, 58: 555-571
+T. J. Kozubowski, S. Inusah (2006) A skew Laplace distribution on integers, \emph{Annals of the Institute of Statistical Mathematics}, 58: 555-571
 }
 \author{
 Alessandro Barbiero, Riccardo Inchingolo

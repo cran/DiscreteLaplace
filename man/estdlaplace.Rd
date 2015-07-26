@@ -1,17 +1,17 @@
 \name{estdlaplace}
 \alias{estdlaplace}
 \title{
-Sample estimation for the discrete Laplace distribution
+Sample estimation for the DSL
 }
 \description{
-The function provides the maximum likelihood estimates for the parameters of the discrete Laplace distribution and the estimate of the inverse of the Fisher information matrix. The method of moments estimators of \eqn{p} and \eqn{q} coincide with the maximum likelihood's.
+The function provides the maximum likelihood estimates for the parameters of the DSL and the estimate of the inverse of the Fisher information matrix. The method of moments estimates of \eqn{p} and \eqn{q} coincide with the maximum likelihood estimates.
 }
 \usage{
 estdlaplace(x)
 }
 \arguments{
   \item{x}{
-a vector of integer values sampled from the discrete Laplace distribution
+a vector of observations from the DSL
 }
 }
 \details{
@@ -37,13 +37,13 @@ A list comprising
 \item{hatSigma}{estimate of the inverse of the Fisher information matrix}
 }
 \references{
-Tomasz J. Kozubowski, Seidu Inusah (2006) A skew Laplace distribution on integers, \emph{AISM}, 58: 555-571
+T. J. Kozubowski, S. Inusah (2006) A skew Laplace distribution on integers, \emph{Annals of the Institute of Statistical Mathematics}, 58: 555-571
 }
 \author{
 Alessandro Barbiero, Riccardo Inchingolo
 }
 \seealso{
-\code{\link{ddlaplace}}, \code{\link{pdlaplace}}, \code{\link{qdlaplace}}, \code{\link{rdlaplace}}
+\code{\link{ddlaplace}}
 }
 \examples{
 p<-0.6
@@ -69,4 +69,5 @@ est[2]
 est[3]
 }
 \keyword{distribution}
+\keyword{htest}
 

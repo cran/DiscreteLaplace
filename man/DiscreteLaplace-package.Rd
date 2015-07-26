@@ -3,27 +3,29 @@
 \alias{DiscreteLaplace}
 \docType{package}
 \title{
-Discrete Laplace distribution
+Discrete Laplace distributions
 }
 \description{
-Density, distribution function, quantile function and random generation for the skew discrete Laplace distribution
+Probability mass function, distribution function, quantile function, random generation and sample estimation for two discrete skew Laplace distributions on integers. The skew discrete Laplace distributions here considered are that proposed by Kozubowski and Inusah (2006), henceforth referred to as DSL, and the alternative one proposed by Barbiero (2014), henceforth ADSL.
 }
 \details{
 \tabular{ll}{
 Package: \tab DiscreteLaplace\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-01-29\cr
+Version: \tab 1.1\cr
+Date: \tab 2015-07-26\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 }
 }
 \author{
 Alessandro Barbiero, Riccardo Inchingolo
+
 Maintainer: Alessandro Barbiero <alessandro.barbiero@unimi.it>
 }
 \references{
-Tomasz J. Kozubowski, Seidu Inusah (2006) A skew Laplace distribution on integers, \emph{AISM}, 58: 555-571
+T. J. Kozubowski, S. Inusah (2006) A skew Laplace distribution on integers, \emph{Annals of the Institute of Statistical Mathematics}, 58: 555-571, \url{http://dx.doi.org/10.1007/s10463-005-0029-1}
+
+A. Barbiero (2014) An alternative discrete Laplace distribution, \emph{Statistical Methodology}, 16: 47-67, \url{http://dx.doi.org/10.1016/j.stamet.2013.07.002}
 }
 \keyword{package}
-
