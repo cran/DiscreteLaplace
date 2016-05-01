@@ -1,2 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-import(Rsolnp,stats)
+import(stats)

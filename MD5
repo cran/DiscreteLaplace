@@ -1,5 +1,6 @@
-fb964f5cb20996048d8c08e5512758a3 *DESCRIPTION
-84a3e0db3dafc6aa6155c28ed24ef0eb *NAMESPACE
+d3287d1ad7b79804b821273215cd3027 *DESCRIPTION
+8eef9d5483a8b2ff0ea0a06cc7bb297f *INDEX
+57ede52ed27f5d634385cb76f8f09ef1 *NAMESPACE
 5f9d3cef66df5a1c7f29118dcde8f063 *R/Edlaplace.R
 3013f733bf46464c38496cbd315dc6ef *R/Edlaplace2.R
 6ce1c33b299db0fd31b45afcce99a01c *R/ddlaplace.R
@@ -11,7 +12,7 @@ e9d7e23770fd5a1889541dbc86bcdf8a *R/ddlaplace2.R
 7ddc3ee8bbbfe2c133be6a0750ecc64d *R/iFI2.R
 cbf05761ca68aa9468ee929c4b7a6d2c *R/ioFI2.R
 6529a0180f978731cf33b3ff21e6396b *R/loss.R
-b6c73cb1374ba6b1fcbce900a4616e0a *man/DiscreteLaplace-package.Rd
+bfb54840c249ea7508f5143b4a7149d4 *man/DiscreteLaplace-package.Rd
 af2b91edd8eb6d0ba53ba6f78934b02d *man/Edlaplace.Rd
 cfa78f261e2ed78010c5faa21b364e54 *man/Edlaplace2.Rd
 542d0ff51af9a05e79727c97cde23b65 *man/ddlaplace.Rd

@@ -1,14 +1,14 @@
 Package: DiscreteLaplace
 Type: Package
 Title: Discrete Laplace Distributions
-Version: 1.1
-Date: 2015-07-26
-Author: Alessandro Barbiero <alessandro.barbiero@unimi.it>, Riccardo Inchingolo <riccardo.arner@libero.it>
+Version: 1.1.1
+Date: 2016-04-29
+Author: Alessandro Barbiero <alessandro.barbiero@unimi.it>, Riccardo Inchingolo <dott.inchingolo_r@libero.it>
 Maintainer: Alessandro Barbiero <alessandro.barbiero@unimi.it>
 Description: Probability mass function, distribution function, quantile function, random generation and estimation for the skew discrete Laplace distributions.
 License: GPL
-Depends: Rsolnp, stats
-Packaged: 2015-07-27 15:01:22 UTC; Barbiero
-NeedsCompilation: no
+LazyLoad: yes
+Packaged: 2016-04-30 07:57:45 UTC; Barbiero
 Repository: CRAN
-Date/Publication: 2015-07-27 20:18:59
+Date/Publication: 2016-05-01 00:46:21
+NeedsCompilation: no
